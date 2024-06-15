@@ -1,0 +1,78 @@
+body{
+    background-image: url(https://booru.newblood.games/_images/39dece0c2193af03330c813a9833b494/1176%20-%20character%3Av1_%28ultrakill%29%20fire%20into%20ost%20prelude%20series%3Aultrakill%20the.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-block: 0;
+    align-items: center;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #E85D04;
+}
+
+.about{
+   padding: 30px;
+   display: flex;
+   justify-content: space-between;
+   gap: 40px;
+}
+
+nav{
+    font-size: 34px;
+    text-decoration: none;
+    color: #000;
+    
+    font-family: 'Russo One';
+    
+}
+.head1{
+    font-family: 'Alfa Slab One';
+    text-align: center;
+    font-size: 47px;
+    color:#FFFFFF
+}
+.a1{
+    color:#000
+}
+.log{
+    font-size: 34px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgba(236, 236, 225, 0.6);
+    font-family: 'Russo One';
+    border-radius: 10px;
+    padding-left: 1%;  
+    padding-right: 1%;
+}
+.singup{
+    font-size: 34px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-family: 'Russo One';
+    border-radius: 10px;
+    padding-left: 1%;  
+    padding-right: 1%;
+}
+.info{
+    font-size: 19px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-family: 'Alfa Slab One';
+    border-radius: 10px;
+    padding-left: 1%;  
+    padding-right: 1%;
+    width: 75%;
+    height: 40%;
+}
+.images{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    width: fit-content;
+    padding: 20px;
+    
+}
