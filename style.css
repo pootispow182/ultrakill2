@@ -58,11 +58,11 @@ nav{
     padding-right: 1%;
 }
 .info{
-    font-size: 19px;
+    font-size: 25px;
     text-decoration: none;
     color: #ffffff;
     background-color: rgba(0, 0, 0, 0.6);
-    font-family: 'Alfa Slab One';
+    font-family: 'Russo One';
     border-radius: 10px;
     padding-left: 1%;  
     padding-right: 1%;
@@ -75,4 +75,22 @@ nav{
     width: fit-content;
     padding: 20px;
     
+}
+.info1{
+    font-size: 25px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-family: 'Russo One';
+    border-radius: 10px;
+    padding-left: 1%;  
+    padding-right: 1%;
+    width: 75%;
+    height: 40%;
+}
+.about1{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
 }
