@@ -13,6 +13,8 @@ header{
     background-color: #E85D04;
 }
 
+
+
 .about{
    padding: 30px;
    display: flex;
@@ -93,4 +95,52 @@ nav{
     display: flex;
     justify-content: space-between;
     gap: 40px;
+}
+
+.text{
+    font-size: 18px;
+    font-family: 'Arimo';
+}
+
+.info2{
+    font-size: 25px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.6);
+    font-family: 'Russo One';
+    border-radius: 10px;
+    padding-left: 1%;  
+    padding-right: 1%;
+    width: 75%;
+    height: 40%;
+}
+
+.imgtext{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Russo One';
+    color: white;
+}
+
+.lvl1{
+    margin-top: 10px;
+}
+    
+.lvl2{
+    margin-top: 20px;
+}
+    
+.lvl3{
+    margin-top: 110px;
+}
+    
+
+.img2 img{
+    height: 240px;
+    width: 320px;
+}
+
+.img3 img{
+    height: 240px;
+    width: 320px;
 }
